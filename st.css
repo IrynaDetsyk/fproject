@@ -1,0 +1,30 @@
+
+*{
+    padding: 0;
+    margin: auto;
+}
+
+body{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-color: #2a4f89;
+}
+
+.content-wrapper img{
+    width: 100%;
+}
+
+.text {
+    width: 100%;
+    position: relative;
+    margin-top: -50%;
+}
+
+.text p{
+    display: flex;
+    justify-content:center;
+    color: grey;
+    font-size: 8vw;
+    font-family: 'Advent Pro', calibri;
+}
